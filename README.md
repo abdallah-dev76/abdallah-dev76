@@ -7,16 +7,16 @@ I enjoy building clean, scalable mobile applications with smooth performance and
 
 ## 🚀 Projects
 
-## [Energy Shoes (React Native)](https://github.com/abdallah-dev76/Energy-Shoes)
+# [Energy Shoes (React Native)](https://github.com/abdallah-dev76/Energy-Shoes)
 Built a cross-platform e-commerce mobile application using React Native with multi-language support and scalable state management.
 
-## [NBE Banking App UI (React Native)](https://github.com/abdallah-dev76/NBE)
+# [NBE Banking App UI (React Native)](https://github.com/abdallah-dev76/NBE)
 Built a mobile banking application UI using React Native, applying Atomic Design, authentication flows, complex navigation, and dynamic theming.
 
-## [Shopping Web App (React, Redux, Vite)](https://github.com/abdallah-dev76/Online-Shop-Manager)
+# [Shopping Web App (React, Redux, Vite)](https://github.com/abdallah-dev76/Online-Shop-Manager)
 Developed a responsive e-commerce web application with dashboard control, product listing, cart, and favorites functionality.
 
-## [Random Quran Verse Web App (JavaScript)](https://github.com/abdallah-dev76/Random-Quran-Verse)
+# [Random Quran Verse Web App (JavaScript)](https://github.com/abdallah-dev76/Random-Quran-Verse)
 Built a lightweight web application that displays random Quranic verses with a responsive interface.
 
 
