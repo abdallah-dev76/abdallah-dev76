@@ -5,6 +5,23 @@ I enjoy building clean, scalable mobile applications with smooth performance and
 
 ---
 
+## 🚀 Projects
+
+### Energy Shoes (React Native)
+Built a cross-platform e-commerce mobile application using React Native with multi-language support and scalable state management.
+
+### NBE Banking App UI (React Native)
+Built a mobile banking application UI using React Native, applying Atomic Design, authentication flows, complex navigation, and dynamic theming.
+
+### Shopping Web App (React, Redux, Vite)
+Developed a responsive e-commerce web application with product listing, cart, and favorites functionality.
+
+### Random Quran Verse Web App (JavaScript)
+Built a lightweight web application that displays random Quranic verses with a responsive interface.
+
+
+---
+
 ## 🛠 Tech Stack
 
 <p align="left">
